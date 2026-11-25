@@ -9,7 +9,7 @@ Professor: Joseph Donald de Maceno Vieira
 
 ## 👥 Integrantes
 
-- João Victor Almeida Mâncio Da Silva - 03360900
+- João Victor Almeida Amâncio Da Silva - 03360900
 - Saphyra Francisca Medeiros Da Silva - 03365434
 
 ## 🎯 Objetivo
