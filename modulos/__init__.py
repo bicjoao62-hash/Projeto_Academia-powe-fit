@@ -1,0 +1,1 @@
+"""Pacote com os módulos do sistema Academia Power Fit."""
